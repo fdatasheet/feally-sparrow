@@ -34,11 +34,14 @@
                 <version>3.8.1</version>
             </dependency>
             <dependency>
+<<<<<<< HEAD
                 <groupId>commons-lang</groupId>
                 <artifactId>commons-lang</artifactId>
                 <version>2.6</version>
             </dependency>
             <dependency>
+=======
+>>>>>>> c1cd1edf9abd4b59d1e96f68a822dbf0cfab5041
                 <groupId>commons-io</groupId>
                 <artifactId>commons-io</artifactId>
                 <version>2.6</version>
