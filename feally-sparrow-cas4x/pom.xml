@@ -1,0 +1,26 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>feally-sparrow</groupId>
+    <artifactId>feally-sparrow</artifactId>
+    <version>0.0.1</version>
+  </parent>
+  <groupId>feally-sparrow-cas4x</groupId>
+  <artifactId>feally-sparrow-cas4x</artifactId>
+  <packaging>war</packaging>
+  <name>feally-sparrow-cas4x</name>
+  <description>feally-sparrow-cas4x</description>
+  <dependencies>
+      <dependency>
+          <groupId>org.jasig.cas</groupId>
+          <artifactId>cas-server-webapp</artifactId>
+          <version>4.2.7</version>
+          <type>war</type>
+      </dependency>
+      <dependency>
+          <groupId>org.jasig.cas</groupId>
+          <artifactId>cas-server-webapp-validation</artifactId>
+          <version>4.2.7</version>
+      </dependency>
+  </dependencies>
+</project>
