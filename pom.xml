@@ -11,6 +11,9 @@
         <module>feally-sparrow-www</module>
         <module>feally-sparrow-login</module>
         <module>feally-sparrow-cas4x</module>
+        <module>feally-sparrow-struts2</module>
+        <module>feally-sparrow-grpc</module>
+        <module>feally-sparrow-wscxf</module>
     </modules>
 
     <build>
